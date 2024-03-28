@@ -1,0 +1,7 @@
+﻿  Console_MONOPOLY.cpp
+C:\Users\obf20\source\repos\Console_MONOPOLY\Console_MONOPOLY\Console_MONOPOLY.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\obf20\source\repos\Console_MONOPOLY\Console_MONOPOLY\Console_MONOPOLY.cpp(229,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\obf20\source\repos\Console_MONOPOLY\Console_MONOPOLY\Console_MONOPOLY.cpp(229,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\obf20\source\repos\Console_MONOPOLY\Console_MONOPOLY\Console_MONOPOLY.cpp(284,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\obf20\source\repos\Console_MONOPOLY\Console_MONOPOLY\Console_MONOPOLY.cpp(261): warning C4715: fontSize: значение возвращается не при всех путях выполнения
+  Console_MONOPOLY.vcxproj -> C:\Users\obf20\source\repos\Console_MONOPOLY\x64\Debug\Console_MONOPOLY.exe
